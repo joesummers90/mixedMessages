@@ -25,6 +25,6 @@ $ node main.js
 Joseph Summers - [@joesummers90](https://github.com/joesummers90)
 
 ## Acknowledgements
-* Inspirational Quotes selected from: https://ca.indeed.com/career-advice/career-development/self-development-quotes
-* Jokes selected from: https://www.today.com/life/inspiration/bad-jokes-rcna58390
-* Affirmations selected from: https://www.betterup.com/blog/positive-affirmations
+* Inspirational Quotes selected from: [here](https://ca.indeed.com/career-advice/career-development/self-development-quotes)
+* Jokes selected from: [here](https://www.today.com/life/inspiration/bad-jokes-rcna58390)
+* Affirmations selected from: [here](https://www.betterup.com/blog/positive-affirmations)

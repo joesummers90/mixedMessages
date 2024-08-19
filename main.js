@@ -1,4 +1,4 @@
-// My aim is to provide the user with an inspirational quote, a nonsensical joke and a motivational positive affirmation to help improve their mood and inspire them
+// Provide the user with an inspirational quote, a nonsensical joke and a motivational positive affirmation to help improve their mood and inspire them
 
 const inspirationalQuotes = [
     "\"What we think, we become.\" — Buddha",
